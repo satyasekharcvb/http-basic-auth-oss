@@ -1,6 +1,6 @@
 # Deploy LWC OSS App with Express API Server to Heroku
 
-This repo has the sample code that shows you how an LWC OSS App that uses an Express API Server can be deployed to Heroku.
+This repo has the sample code that shows how to serve HTTP basic authentication using LWC OSS App 
 
 ## Steps and Changes Explained
 
